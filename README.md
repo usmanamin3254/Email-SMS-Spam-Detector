@@ -13,25 +13,25 @@
 | Not Spam |
 |-----------|
 | [ Not Spam Email ]<p align="center">
-  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183547.png?raw=true" alt="Not Spam Preview" width="10000"/> |
+  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183547.png?raw=true" alt="Not Spam Preview" width="150000"/> |
 </p> 
 
 | Spam |
 |-----------|
 | [ Spam Email ]<p align="center">
-  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183625.png?raw=true" alt="Spam Preview" width="10000"/> |
+  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183625.png?raw=true" alt="Spam Preview" width="150000"/> |
 </p> 
 
 | Not Spam |
 |-----------|
 | [ Not Spam Message ]<p align="center">
-  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183648.png?raw=true" alt="Not Spam Preview" width="10000"/> |
+  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183648.png?raw=true" alt="Not Spam Preview" width="150000"/> |
 </p>
 
 | Spam |
 |-----------|
 | [ Spam Message ]<p align="center">
-  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183732.png?raw=true" alt="Spam Preview" width="10000"/> |
+  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183732.png?raw=true" alt="Spam Preview" width="150000"/> |
 </p>
 
 ---
