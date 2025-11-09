@@ -10,13 +10,29 @@
 
 ## 🖼️ Project Showcase
 
-| Home Page | Enter Message |
-|-----------|---------------|
-| ![Home Page](images/home_page.png) | ![Enter Message](images/enter_message.png) |
+| Not Spam |
+|-----------|
+| [ Not Spam Email ]<p align="center">
+  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183547.png?raw=true" alt="Not Spam Preview" width="10000"/> |
+</p> 
 
-| Spam Detection Result | Safe Message Result |
-|---------------------|------------------|
-| ![Spam Result](images/spam_result.png) | ![Safe Result](images/safe_result.png) |
+| Spam |
+|-----------|
+| [ Spam Email ]<p align="center">
+  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183625.png?raw=true" alt="Spam Preview" width="10000"/> |
+</p> 
+
+| Not Spam |
+|-----------|
+| [ Not Spam Message ]<p align="center">
+  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183648.png?raw=true" alt="Not Spam Preview" width="10000"/> |
+</p>
+
+| Spam |
+|-----------|
+| [ Spam Message ]<p align="center">
+  <img src="https://github.com/usmanamin3254/Email-SMS-Spam-Detector/blob/main/Screenshot 2025-11-09 183732.png?raw=true" alt="Spam Preview" width="10000"/> |
+</p>
 
 ---
 
@@ -51,29 +67,41 @@
 ```bash
 git clone https://github.com/yourusername/ai-spam-detector.git
 cd ai-spam-detector
+```
 
-Create a virtual environment:
-
+2. Create a virtual environment:
+```bash
 python -m venv venv
-# Activate environment
-source venv/bin/activate   # Linux / Mac
+```
+
+3. Activate environment
+
+```bash
+source venv/bin/activate   # Linux / Mac 
 venv\Scripts\activate      # Windows
+```
 
-Install dependencies:
+4. Install dependencies:
 
+```
 pip install -r requirements.txt
 
-Ensure the following files are in the project root:
+```
+
+# Ensure the following files are in the project root:
 
 model.pkl → Pre-trained machine learning model
 
 vectorizer.pkl → TF-IDF vectorizer
 
-🚀 Usage
+
+# 🚀 Usage
 
 Run the Streamlit app:
 
+```bash
 streamlit run app.py
+```
 
 Enter an email or SMS message in the text area.
 
@@ -81,7 +109,7 @@ Click 🔍 Analyze Message.
 
 The app will instantly show whether the message is Spam (🔴) or Safe (🟢).
 
-👨‍💻 Author
+# 👨‍💻 Author
 
-Usman Amin
-© 2025 AI Spam Detector Project
+Usman Amin (usmanamin3254)
+© 2025  AI Email/SMS Spam Detector Project
